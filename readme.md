@@ -108,7 +108,7 @@ Maritime-Signal-Interference-Research/
 
 ---
 
-## 🏷️ 7. Tags (GitHub Topics)
+## 🏷️ 7. Tags
 `txt
 signal-analysis
 maritime-research
